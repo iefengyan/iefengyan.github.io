@@ -30,8 +30,9 @@ My research interest includes salient object detection.
 <div class='paper-box-text' markdown="1">
 Wavelet and Prototype Augmented Query-based Transformer for Pixel-level
 Surface Defect Detection<br>
-Feng Yan, Xiaoheng Jiang, Yang Lu, Jiale Cao, Dong Chen and Mingliang Xu<br>
 [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_Wavelet_and_Prototype_Augmented_Query-based_Transformer_for_Pixel-level_Surface_Defect_CVPR_2025_paper.pdf) | [Code](https://github.com/iefengyan/WPFormer)
+Feng Yan, Xiaoheng Jiang, Yang Lu, Jiale Cao, Dong Chen and Mingliang Xu<br>
+
 
 **Feng Yan**, Xiaoheng Jiang, Yang Lu, Jiale Cao, Dong Chen and Mingliang Xu
 - <strong style="color:green"> By utilizing the simple yet efficient CER module, SED achieves a better trade-off between accuracy and performance for open-vocabulary semantic segmentation.</strong>
