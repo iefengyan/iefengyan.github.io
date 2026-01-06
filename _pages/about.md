@@ -63,7 +63,8 @@ DefectSAM: Hierarchically Adapting SAM for Pixel-Wise Surface Defect Detection<b
 - **Feng Yan**, Jiawei Cheng, Jian Feng, Yang Lu, Wenjie Zhang, Xiaoheng Jiang, Mingliang Xu.  Deviation capture networks for anomaly detection, Advanced Engineering Informatics, 2026. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1474034625007797)
 
 
-
+# 📖 Educations
+- *2023.06 - Now, Zhengzhou University, PhD student. 
 
 
 
