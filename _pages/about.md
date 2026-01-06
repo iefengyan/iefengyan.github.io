@@ -26,7 +26,7 @@ My research interest includes salient object detection.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/papers/sed.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/WPFormer.png''images/WPFormer.png''im</div></div>
 <div class='paper-box-text' markdown="1">
 Wavelet and Prototype Augmented Query-based Transformer for Pixel-level Surface Defect Detection<br>
 [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_Wavelet_and_Prototype_Augmented_Query-based_Transformer_for_Pixel-level_Surface_Defect_CVPR_2025_paper.pdf) | [Code](https://github.com/iefengyan/WPFormer)
