@@ -25,7 +25,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">5</div><img src='images/GCRANet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-<strong style="color:green">Global Context Guided Refinement and Aggregation Network for Lightweight Surface Defect Detection</strong>
+<strong style="color:green">Global Context Guided Refinement and Aggregation Network for Lightweight Surface Defect Detection</strong> <br>
 **PR, 2025** <br>
 **Feng Yan**, Xiaoheng Jiang, Yang Lu, Lisha Cui, Jiale Cao, Mingliang Xu <br>
 [Paper](https://www.sciencedirect.com/science/article/pii/S0031320325015560) | [Code](https://github.com/iefengyan/GCRANet)
@@ -37,8 +37,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/WPFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-<strong style="color:green">Wavelet and Prototype Augmented Query-based Transformer for Pixel-level Surface Defect Detection</strong>
-
+<strong style="color:green">Wavelet and Prototype Augmented Query-based Transformer for Pixel-level Surface Defect Detection</strong><br>
 **CVPR, 2025** <br>
 **Feng Yan**, Xiaoheng Jiang, Yang Lu, Jiale Cao, Dong Chen, Mingliang Xu <br>
 [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_Wavelet_and_Prototype_Augmented_Query-based_Transformer_for_Pixel-level_Surface_Defect_CVPR_2025_paper.pdf) | [Code](https://github.com/iefengyan/WPFormer)
@@ -51,8 +50,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/DefectSAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-<strong style="color:green"> DefectSAM: Hierarchically Adapting SAM for Pixel-Wise Surface Defect Detection </strong>
-
+<strong style="color:green"> DefectSAM: Hierarchically Adapting SAM for Pixel-Wise Surface Defect Detection </strong><br>
 **TNNLS, 2025** <br>
 **Feng Yan**, Xiaoheng Jiang, Yang Lu, Jiale Cao, Mingliang Xu <br>
 [Paper](https://ieeexplore.ieee.org/abstract/document/11078420) | [Code](https://github.com/iefengyan/DefectSAM)
