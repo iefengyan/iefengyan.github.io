@@ -41,7 +41,7 @@ Wavelet and Prototype Augmented Query-based Transformer for Pixel-level Surface 
 
 **Feng Yan**, Xiaoheng Jiang, Yang Lu, Jiale Cao, Dong Chen, Mingliang Xu
 
-[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_Wavelet_and_Prototype_Augmented_Query-based_Transformer_for_Pixel-level_Surface_Defect_CVPR_2025_paper.pdf) | [Code](https://github.com/iefengyan/WPFormer)
+- [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_Wavelet_and_Prototype_Augmented_Query-based_Transformer_for_Pixel-level_Surface_Defect_CVPR_2025_paper.pdf) | [Code](https://github.com/iefengyan/WPFormer)
 
 </div>
 </div>
